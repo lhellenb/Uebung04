@@ -2,7 +2,7 @@ package h1;
 
 public class H1_main {
 	public static void main(String[] args) {
-		int zone= 7;
+		int zone= 4;
 		double price=11.4;
 		
 		price=0;
